@@ -1,2 +1,2 @@
-# html-css-navong
+# html-css-naver
 NAVER Clone
